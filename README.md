@@ -1,3 +1,3 @@
 # scloud
 
-scloud a private cloud deployment
+scloud is a personal multi-cloud deployment
